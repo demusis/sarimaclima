@@ -1,2 +1,2 @@
 # sarimaclima
-Aplicação do modelo sarima em série do índice de calor na baixada cuiabana utilizando R.
+Aplicação do modelo SARIMA, com preenchimento de falhas e detecção de outliers em séries de temperatura média mensal na estação do INMET da baixada cuiabana utilizando R.
